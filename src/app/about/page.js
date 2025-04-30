@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section class="bg-gradient-to-b from-white to-gray-100 dark:from-gray-900 dark:to-gray-800 px-6 py-24">
+    <section id="abouts" class="bg-gradient-to-b from-white to-gray-100 dark:from-gray-900 dark:to-gray-800 px-6 py-24">
       <div class="max-w-5xl mx-auto text-center">
         <h2 class="text-4xl md:text-5xl font-extrabold text-gray-900 dark:text-white mb-6">
           Tentang Saya

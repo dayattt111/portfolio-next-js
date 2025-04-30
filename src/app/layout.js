@@ -13,12 +13,14 @@ export default function RootLayout({ children }) {
       <body>
         <Navbar />
         <Hero />
-        <CardList />
         <About />
+        <CardList />
         <Contact />
-
+        
         {/* <main>{children}</main> */}
+
         <Footer />
+      
       </body>
     </html>
   );
